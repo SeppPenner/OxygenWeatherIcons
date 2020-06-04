@@ -72,4 +72,4 @@ OxygenWeatherIcons contains all weather icons from the [Oxygen team](http://www.
 Change history
 --------------
 
-* **Version 1.0.0.0 (2020-06-02)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/OxygenWeatherIcons/blob/master/Changelog.md).
