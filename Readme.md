@@ -18,14 +18,13 @@ OxygenWeatherIcons contains all weather icons from the [Oxygen team](http://www.
 |`200, 201, 202, 210, 211, 212, 221, 230, 231, 232`|![](storm-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-storm-night.svg)|Thunderstorm night|
 |`300, 301, 302, 310, 311, 312, 313, 314, 321, 520, 521, 522, 531`|![](showers-day.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-showers-day.svg)|Shower rain day|
 |`300, 301, 302, 310, 311, 312, 313, 314, 321, 520, 521, 522, 531`|![](showers-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-showers-night.svg)|Shower rain night|
-|`501, 502, 503, 504`|![](showers-scattered-day.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-showers-scattered-day.svg)|Rain day|
-|`501, 502, 503, 504`|![](showers-scattered-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-showers-scattered-night.svg)|Rain night|
+|`500, 501, 502, 503, 504`|![](showers-scattered-day.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-showers-scattered-day.svg)|Rain day|
+|`500, 501, 502, 503, 504`|![](showers-scattered-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-showers-scattered-night.svg)|Rain night|
 |`511`|![](freezing-rain.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen15.04.1-weather-freezing-rain.svg)|Freezing rain|
-|`600, 601, 602, 611, 612, 613, 620, 621, 622`|![](snow-scattered-day.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-snow-scattered-day.svg)|Snow day|
-|`600, 601, 602, 611, 612, 613, 620, 621, 622`|![](snow-scattered-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-snow-scattered-night.svg)|Snow night|
-|`615, 616`|![](snow-rain.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-snow-rain.svg)|Snow rain|
-|`701, 711, 721, 731, 741, 751, 761, 762, 771, 781`|![](mist.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-mist.svg)|Mist day|
-|`701, 711, 721, 731, 741, 751, 761, 762, 771, 781`|![](mist.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-mist.svg)|Mist night|
+|`600, 601, 602, 620, 621, 622`|![](snow-scattered-day.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-snow-scattered-day.svg)|Snow day|
+|`600, 601, 602, 620, 621, 622`|![](snow-scattered-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-snow-scattered-night.svg)|Snow night|
+|`611, 612, 613, 615, 616`|![](snow-rain.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-snow-rain.svg)|Snow rain|
+|`701, 711, 721, 731, 741, 751, 761, 762, 771, 781`|![](mist.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-mist.svg)|Mist|
 |`800`|![](clear.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-clear.svg)|Clear sky day|
 |`800`|![](clear-night.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-clear-night.svg)|Clear sky night|
 |`801`|![](few-clouds.svg)|[Link](https://commons.wikimedia.org/wiki/File:Oxygen480-status-weather-few-clouds.svg)|Few clouds day|
